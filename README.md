@@ -16,5 +16,7 @@ The dashboard presents:
   
 Data-driven decisions are at the heart of business growth, and dashboards like this are key to understanding performance, optimizing operations, and identifying opportunities for improvement.
 
+Link to the Dashboard - https://www.novypro.com/project/blinkit-sales-analysis-dashboard
+
 <img width="1060" alt="Screenshot 2024-08-17 122836" src="https://github.com/user-attachments/assets/471a435b-d298-4bfd-ac1e-96e63817bfe8">
 
